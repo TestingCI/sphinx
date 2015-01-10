@@ -1,10 +1,10 @@
 language: python
 python:
-  - "2.6"
+  #- "2.6"
   - "2.7"
-  - "3.3"
-  - "3.4"
-  - "pypy"
+ # - "3.3"
+#  - "3.4"
+ # - "pypy"
 env:
   - DOCUTILS=0.11
   - DOCUTILS=0.12
